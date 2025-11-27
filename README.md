@@ -39,8 +39,8 @@ This project was built using the following technologies:
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/irfanari969/educourse-api-adv.git](https://github.com/irfanari969/educourse-api-adv.git)
-    cd educourse-api-adv
+    git clone [https://github.com/irfanari969/edu-course-api.git](https://github.com/irfanari969/edu-course-api.git)
+    cd edu-course-api
     ```
 
 2.  **Install dependencies:**
